@@ -13,7 +13,7 @@ import com.odirleikempfer.kmpx.entities.Sale;
 import com.odirleikempfer.kmpx.repositories.SaleRepository;
 
 @Service
-public class SaleServices {
+public class SaleService {
 	
 	@Autowired
 	private SaleRepository repository;
